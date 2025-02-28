@@ -1,4 +1,4 @@
-wwwwwwwwwwwwwwwOi! Eu sou o Caio silva, estudante de programação focada em Back-end
+Eai! Eu sou o Caio silva, estudante de programação focada em Back-end
 😃
 ##
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CaioS1lv2&show_icons=true&theme=dark)
