@@ -1,6 +1,6 @@
-Oi! Eu sou o Caio silva
+Oi! Eu sou o Caio silva, estudante de programação focada em Back-end
 😃
-
+##
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CaioS1lv2&show_icons=true&theme=dark)
 
 <div>
@@ -13,3 +13,4 @@ Oi! Eu sou o Caio silva
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div>
   
+##
