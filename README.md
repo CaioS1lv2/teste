@@ -1,4 +1,4 @@
-Oi! Eu sou o Caio silva, estudante de programação focada em Back-end
+wwwwwwwwwwwwwwwOi! Eu sou o Caio silva, estudante de programação focada em Back-end
 😃
 ##
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CaioS1lv2&show_icons=true&theme=dark)
@@ -15,7 +15,6 @@ Oi! Eu sou o Caio silva, estudante de programação focada em Back-end
   
 ##
   <a href="https://instagram.com/caios1lv2" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "https://outlook.live.com/mail/0/"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
  <a href="https://www.linkedin.com/in/caio-silva-3b90191ab/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
